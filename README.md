@@ -1,2 +1,2 @@
 # X-OS
-The best OS over!
+the best OS in the world!
