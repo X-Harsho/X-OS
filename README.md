@@ -19,7 +19,7 @@ It is designed to run efficiently on any hardware while offering complete freedo
 
 
 ## X‑OS 100% OpenSource License
-Copyright (c) 2025 Lev
+Copyright (c) 2026 Lev
 
 This project is completely open (100% OpenSource).
 Everyone is permitted to:
